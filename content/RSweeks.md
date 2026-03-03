@@ -1,0 +1,3 @@
+# Research Software Week Berlin
+
+On .. there will be the first Research Software Week in Berlin...

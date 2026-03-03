@@ -1,8 +1,0 @@
-baseURL = "https://forschungssoftware.info/"
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]

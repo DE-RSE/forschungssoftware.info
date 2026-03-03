@@ -1,0 +1,5 @@
+baseURL = 'https://forschungssoftware.info/'
+languageCode = 'de-de'
+title = 'forschungssoftware.info'
+theme = 'blowfish'
+disablePathToLower = true

@@ -1,0 +1,3 @@
+# Research Software Day
+
+On .. there will be the first Research Software Day in Berlin...
