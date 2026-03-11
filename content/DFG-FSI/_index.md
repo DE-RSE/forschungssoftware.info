@@ -17,3 +17,4 @@ Der Email-Verteiler [dfg-fsi@forschungssoftware.info](mailto:dfg-fsi@forschungss
 Für schnellere Kommunikation als auf einem Emailverteiler möglich gibt es einen öffentlichen
 [Chatraum in Matrix](https://matrix.to/#/#DFG-Forschungssoftwareinfrastrukturen:matrix.org).
 
+Für wen [Matrix](https://de.wikipedia.org/wiki/Matrix_(Kommunikationsprotokoll)) neu ist, könnte die [Hilfe der Academic Cloud](https://docs.chat.academiccloud.de/first-steps/index.html) dazu nützlich sein.
