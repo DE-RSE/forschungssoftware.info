@@ -3,3 +3,5 @@ languageCode = 'de-de'
 title = 'forschungssoftware.info'
 theme = 'blowfish'
 disablePathToLower = true
+[params]
+  repository = "https://github.com/DE-RSE/forschungssoftware.info"
