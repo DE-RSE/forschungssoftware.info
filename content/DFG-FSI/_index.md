@@ -18,3 +18,7 @@ Für schnellere Kommunikation als auf einem Emailverteiler möglich gibt es eine
 [Chatraum in Matrix](https://matrix.to/#/#DFG-Forschungssoftwareinfrastrukturen:matrix.org).
 
 Für wen [Matrix](https://de.wikipedia.org/wiki/Matrix_(Kommunikationsprotokoll)) neu ist, könnte die [Hilfe der Academic Cloud](https://docs.chat.academiccloud.de/first-steps/index.html) dazu nützlich sein.
+
+## Material
+
+- [Folien des 1. Vernetzungstreffens 2026-03-02 in Stuttgart](https://zenodo.org/records/18861258)
