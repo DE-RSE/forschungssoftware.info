@@ -13,11 +13,11 @@ This is a prototype event.
 
 ## Target Audience
 Aiming for 50--80 people
-- main group: researchers who write code
+- researchers who write code
 - professors, PIs of projects in which research software questions may arise
 - computer scientists interested in research software
-- RDM teams, data stewards and librarians who may get questions about software management
-- research managers & funding referents  confronted with questions on research software
+- RDM teams, data stewards and librarians who get questions about software management
+- research managers & funding referents confronted with questions on research software
 - transfer offices and initiatives in charge of informing about software patenting 
 
 
@@ -61,7 +61,14 @@ Aiming for 50--80 people
 - in the 2nd backyard turn right and use the elevator or stairs to the 2nd floor and turn right into our central lab
 - Nearby public transport: U8 Weinmeisterstraße, S Hackescher Markt, Tram M1 Weinmeisterstraße/Gipsstraße, train station Alexanderplatz
 - parking spots for bicycles only (2nd backyard)
+![logo Cluster of Excellence Matters of Activity](MoA-logo-small.png)
 
 ## Funding
 
-The BUA and their programs *CORe* and *Open Science Ambassadors* aim to cover the costs for the RS Day. The event is greatly supported by the de-RSE association. We gladly acknowledge local support from the Cluster of Excellence Matters of Activity.
+The BUA and their programs *CORe* and *Open Science Ambassadors* aim to cover the costs for the RS Day and have staff assigned to the event organization. 
+![BUA logo incl funders](BUA-funders_logo.png)
+
+The event is greatly supported by the de-RSE association. 
+![de-RSE logo](deRSE-logo-color-web.png)
+
+We gladly acknowledge local support from the Cluster of Excellence Matters of Activity.
