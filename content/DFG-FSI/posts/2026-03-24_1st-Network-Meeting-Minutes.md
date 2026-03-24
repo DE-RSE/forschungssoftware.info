@@ -4,6 +4,7 @@ locale: 'en-gb'
 showAuthor: true
 authors:
     - 'benedikt.wirth'
+    - 'matthias.katerbow'
 title: 'Minutes: Network Meeting „Research Software Infrastructures”'
 ---
 
