@@ -35,6 +35,11 @@ Aiming for 50--80 people
 - Keynote (Prof. Anna-Lena Lamprecht -- Universitaet Potsdam)
 - Networking
 - Visit the booths!
+    - [FuturRSI](https://www.futursi.de/)
+    - National High Performance Computing Center in Berlin [NHR@ZIB](https://nhr.zib.de/en/)
+    - Research Software Award
+    - Digital Humanities in Berlin
+    - Wikimedia & Research Software Discovery 
 
 ### 14:45--15:45 Workshop Sessions I
 - Research Software Engineering & Management at Helmholtz Association
