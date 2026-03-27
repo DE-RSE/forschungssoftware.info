@@ -1,6 +1,6 @@
 ---
 title: "CORSES"
-featureimage: "https://de-rse.org/assets/img/matrix/derse-matrix-logo.png"
+featureimage: "https://upload.wikimedia.org/wikipedia/commons/8/80/Comingsoon.png"
 tags: [ 'DFG' ]
 showDate: false
 showTaxonomies: true
