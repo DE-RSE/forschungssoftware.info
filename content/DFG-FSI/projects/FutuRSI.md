@@ -1,7 +1,9 @@
 ---
 title: "FutuRSI"
 featureimage: "https://www.futursi.de/FutuRSI_favicon_colored.png"
+tags: [ 'KTS' ]
 showDate: false
+showTaxonomies: true
 ---
 # Next-Level RSE in Germany
 
