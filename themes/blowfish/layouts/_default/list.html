@@ -39,9 +39,9 @@
       {{ .Content }}
     </div>
   </section>
-
   {{/* Article Grid */}}
-  {{ if gt .Pages 0 }}
+  {{ $Pages := (where .Pages ".Params.unlisted" "!=" "true") }}
+  {{ if gt $Pages 0 }}
     {{ $cardView := .Params.cardView | default (site.Params.list.cardView | default false) }}
     {{ $cardViewScreenWidth := .Params.cardViewScreenWidth | default (site.Params.list.cardViewScreenWidth | default false) }}
     {{ $groupByYear := .Params.groupByYear | default (site.Params.list.groupByYear | default false) }}
@@ -51,18 +51,18 @@
     {{ if not $cardView }}
       <section class="space-y-10 w-full">
         {{ if not $orderByWeight }}
-          {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
+          {{ range (.Paginate ($Pages.GroupByDate "2006")).PageGroups }}
             {{ if $groupByYear }}
               <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
                 {{ .Key }}
               </h2>
             {{ end }}
-            {{ range .Pages }}
+            {{ range $Pages }}
               {{ partial "article-link/simple.html" . }}
             {{ end }}
           {{ end }}
         {{ else }}
-          {{ range (.Paginate (.Pages.ByWeight)).Pages }}
+          {{ range (.Paginate ($Pages.ByWeight)).Pages }}
             {{ partial "article-link/simple.html" . }}
           {{ end }}
         {{ end }}
@@ -70,14 +70,14 @@
     {{/* else: is cardView */}}
     {{ else }}
       {{ if $groupByYear }}
-        {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
+        {{ range (.Paginate ($Pages.GroupByDate "2006")).PageGroups }}
           {{ if $cardViewScreenWidth }}
             <div class="relative w-screen max-w-[1600px] px-[30px] start-[calc(max(-50vw,-800px)+50%)]">
               <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
                 {{ .Key }}
               </h2>
               <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-                {{ range .Pages }}
+                {{ range $Pages }}
                   {{ partial "article-link/card.html" . }}
                 {{ end }}
               </section>
@@ -87,7 +87,7 @@
               {{ .Key }}
             </h2>
             <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-              {{ range .Pages }}
+              {{ range $Pages }}
                 {{ partial "article-link/card.html" . }}
               {{ end }}
             </section>
@@ -100,13 +100,13 @@
           <div class="relative w-screen max-w-[1600px] px-[30px] start-[calc(max(-50vw,-800px)+50%)]">
             <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
               {{ if not $orderByWeight }}
-                {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
-                  {{ range .Pages }}
+                {{ range (.Paginate ($Pages.GroupByDate "2006")).PageGroups }}
+                  {{ range $Pages }}
                     {{ partial "article-link/card.html" . }}
                   {{ end }}
                 {{ end }}
               {{ else }}
-                {{ range (.Paginate (.Pages.ByWeight)).Pages }}
+                {{ range (.Paginate ($Pages.ByWeight)).Pages }}
                   {{ partial "article-link/card.html" . }}
                 {{ end }}
               {{ end }}
@@ -115,13 +115,13 @@
         {{ else }}
           <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
             {{ if not $orderByWeight }}
-              {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
-                {{ range .Pages }}
+              {{ range (.Paginate ($Pages.GroupByDate "2006")).PageGroups }}
+                {{ range $Pages }}
                   {{ partial "article-link/card.html" . }}
                 {{ end }}
               {{ end }}
             {{ else }}
-              {{ range (.Paginate (.Pages.ByWeight)).Pages }}
+              {{ range (.Paginate ($Pages.ByWeight)).Pages }}
                 {{ partial "article-link/card.html" . }}
               {{ end }}
             {{ end }}
@@ -129,7 +129,7 @@
         {{ end }}{{/* End of cardViewScreenWidth */}}
       {{ end }}{{/* End of groupByYear */}}
     {{ end }}{{/* End of cardView */}}
-  {{/* else: .Pages not greater to zero */}}
+  {{/* else: $Pages not greater to zero */}}
   {{ else }}
     <section class="mt-10 prose dark:prose-invert">
       <p class="py-8 border-t">
