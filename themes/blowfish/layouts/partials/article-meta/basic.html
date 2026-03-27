@@ -110,6 +110,13 @@
       {{ end }}
     </div>
   {{ end }}
+  {{ if (.Params.DFGnr | default false) }}
+    <div class="flex flex-row flex-wrap items-center">
+      <a class="relative mt-[0.5rem] me-2" href="https://gepris.dfg.de/gepris/projekt/{{ .Params.DFGnr }}">
+        {{ partial "badge.html" "GEPRIS" }}
+      </a>
+    </div>
+  {{ end }}
 
   {{/* Output only category */}}
   {{ if .Params.showCategoryOnly | default (.Site.Params.article.showCategoryOnly | default false) }}
