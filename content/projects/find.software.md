@@ -1,7 +1,8 @@
 ---
 title: "find.software"
 featureimage: "https://find-software.org/img/find.software_logo_5.png"
-tags: [ 'DFG' ]
+funders: [ 'DFG' ]
+fundingprogrammes: [ 'DFG-FSI' ]
 DFGnr: 567156310
 showDate: false
 showTaxonomies: true

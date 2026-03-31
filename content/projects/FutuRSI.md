@@ -1,7 +1,7 @@
 ---
 title: "FutuRSI"
 featureimage: "https://www.futursi.de/FutuRSI_favicon_colored.png"
-tags: [ 'KTS' ]
+funders: [ 'KTS' ]
 showDate: false
 showTaxonomies: true
 ---

@@ -12,3 +12,5 @@ preserveTaxonomyNames = true
   author = "authors"
   tag = "tags"
   category = "categories"
+  funder = "funders"
+  fundingprogramme = "fundingprogrammes"

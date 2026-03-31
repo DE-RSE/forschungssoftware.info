@@ -1,7 +1,8 @@
 ---
 title: "ConnOSS"
 featureimage: "https://connoss-project.github.io/images/logo.png"
-tags: [ 'DFG' ]
+funders: [ 'DFG' ]
+fundingprogrammes: [ 'DFG-FSI' ]
 DFGnr: 561044496
 showDate: false
 showTaxonomies: true

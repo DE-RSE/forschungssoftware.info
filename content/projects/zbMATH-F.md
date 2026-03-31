@@ -1,7 +1,8 @@
 ---
 title: "zbMATH-F"
 featureimage: "https://www.fiz-karlsruhe.de/sites/default/files/FIZ/Bilder/Logos/zbMATH-Open-201223.svg"
-tags: [ 'DFG' ]
+funders: [ 'DFG' ]
+fundingprogrammes: [ 'DFG-FSI' ]
 DFGnr: 561181416
 showDate: false
 showTaxonomies: true

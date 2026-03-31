@@ -1,7 +1,8 @@
 ---
 title: "CAES³AR"
 featureimage: "https://caesar.pages.rwth-aachen.de/misc/caesar_logo.svg"
-tags: [ 'DFG' ]
+funders: [ 'DFG' ]
+fundingprogrammes: [ 'DFG-FSI' ]
 DFGnr: 561181416
 showDate: false
 showTaxonomies: true

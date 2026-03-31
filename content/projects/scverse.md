@@ -1,7 +1,8 @@
 ---
 title: "scverse"
 featureimage: "https://scverse.org/img/icons/scverse_bw_logo.svg"
-tags: [ 'DFG' ]
+funders: [ 'DFG' ]
+fundingprogrammes: [ 'DFG-FSI' ]
 showDate: false
 showTaxonomies: true
 ---
