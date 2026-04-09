@@ -24,7 +24,7 @@ The organization of the Research Software Week is supported by the [Berlin Unive
 
 This event is co-organized by the Cluster of Excellence Matters of Activity.
 
-![logo MoA](RSdays/2026/Berlin/MoA-logo-small.png)
+![logo MoA](MoA-HU-DFG-logo.png)
 
 This Research Software Week is also supported by [de-RSE e.V. - Society for Research Software in Germany](https://de-rse.org/en/).
 
