@@ -38,4 +38,3 @@ Please send feedback, questions, etc. to [Claudia Göbel](mailto:claudia.goebel@
 
 The Research Software Week will be coordinated with international RSE initiatives in the years to come.
 
-](https://pad.gwdg.de/QeswZrlUTJOk-xcm1akAjA?both#)
