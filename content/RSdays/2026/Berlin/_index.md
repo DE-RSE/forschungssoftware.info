@@ -46,13 +46,14 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 
 ## Location
 
+![MoA logo](MoA-HU-DFG-logo.png)
+
 Cluster of Excellence *Matters of Activity* at Sophienstr. 22a, 10178 Berlin 
 - wheelchair accessible
 - [Open Street Map](https://osm.org/go/0MbFOilVf?node=1552074062) or [Google Maps](https://maps.app.goo.gl/gb1SuFBNcjNjTY6V6)
 - in the 2nd backyard turn right and use the elevator or stairs to the 2nd floor and turn right into our central lab
 - Nearby public transport: U8 Weinmeisterstraße, S Hackescher Markt, Tram M1 Weinmeisterstraße/Gipsstraße, train station Alexanderplatz
 - parking spots for bicycles only (2nd backyard)
-![logo Cluster of Excellence Matters of Activity](MoA-logo-small.png)
 
 ## Funding
 
@@ -66,7 +67,6 @@ The event is greatly supported by the [de-RSE association](https://de-rse.org/en
 
 We gladly acknowledge local support from the [Cluster of Excellence *Matters of Activity*](https://www.matters-of-activity.de/en/).
 
-![MoA logo](MoA-HU-DFG-logo.png)
 
 ## Contact
 For questions, feedback, etc. please contact [Claudia Göbel](https://www.berlin-university-alliance.de/en/commitments/research-quality/personen/goebel-claudia/index.html) and/or [Alexander Struck](https://www.matters-of-activity.de/en/members/219/dr-alexander-struck).
