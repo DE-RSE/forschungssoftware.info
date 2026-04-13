@@ -21,12 +21,12 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 |**09:00-12:00**| **Session 1: Hands-on Trainings** |
 | |**(1.1) Rechtsfragen bei Forschungssoftware (in German language)** <br>*Till Kreutzer (iRights)*|
 | |**(1.2) National High Performance Computing (NHR): An Introduction to the NHR@ZIB Site** <br>*Georgios Nikolis (ZIB), Steffen Christgau (ZIB)* |
-| |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality**<br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
+| |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
 | |**(1.4) Tbc.**|
 |12:00-12:45| Lunch Break|
 |**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth (BUA Advancing Research Quality and Value)*|
-|**13:00-13:45**| ***Keynote:* “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
-|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/>- Research Software Award der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
+|**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
+|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - Research Software Award der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
 |**14:30-15:30**| **Session 2: Workshops**
 | |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
 | |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
@@ -46,7 +46,6 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 
 ## Location
 
-![MoA logo](MoA-HU-DFG-logo.png)
 
 Cluster of Excellence *Matters of Activity* at Sophienstr. 22a, 10178 Berlin 
 - wheelchair accessible
@@ -67,6 +66,7 @@ The event is greatly supported by the [de-RSE association](https://de-rse.org/en
 
 We gladly acknowledge local support from the [Cluster of Excellence *Matters of Activity*](https://www.matters-of-activity.de/en/).
 
+![MoA logo](MoA-HU-DFG-logo.png)
 
 ## Contact
 For questions, feedback, etc. please contact [Claudia Göbel](https://www.berlin-university-alliance.de/en/commitments/research-quality/personen/goebel-claudia/index.html) and/or [Alexander Struck](https://www.matters-of-activity.de/en/members/219/dr-alexander-struck).
