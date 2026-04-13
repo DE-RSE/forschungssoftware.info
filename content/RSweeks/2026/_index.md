@@ -1,7 +1,5 @@
 # Research Software Week 2026: June 1st--5th
 
-![banner research software week](RSweek-banner-page001.svg)
-
 ## About
 
 The Research Software Week is an event for everybody interested in research software (engineering). In connection to the first [Research Software Day Berlin & Brandenburg](https://forschungssoftware.info/RSdays/2026/Berlin/) on 3 June 2026, we started the initiative to encourage broader learning, exchange and networking around research software. The idea is to gather events around research software in one place and promote them to a larger audience. Let’s see where we can go together!
@@ -29,7 +27,6 @@ We encourage you to recycle existing talks and workshop concepts.
 
 ## Acknowledgements
 
-![banner Research Software week](RSweek-banner-page001.png)
 
 2026 is the first instance of the Research Software Week. This is inspired by the international [Love Data Week](https://forschungsdaten.info/praxis-kompakt/fdm-kalender/detail?tx_calendarize_calendar%5Baction%5D=detail&tx_calendarize_calendar%5Bcontroller%5D=Calendar&tx_calendarize_calendar%5Bindex%5D=29&cHash=6ca22a8eef214030f5aec01d629d73e4) and [Open Access Week](https://www.openaccessweek.org/).
 
