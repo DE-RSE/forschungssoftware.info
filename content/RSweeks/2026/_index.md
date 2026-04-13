@@ -27,11 +27,13 @@ We encourage you to recycle existing talks and workshop concepts.
 
 ## Acknowledgments
 
+![banner Research Software week](RSweek-banner-page001.png)
+
 2026 is the first instance of the Research Software Week. This is inspired by the international [Love Data Week](https://forschungsdaten.info/praxis-kompakt/fdm-kalender/detail?tx_calendarize_calendar%5Baction%5D=detail&tx_calendarize_calendar%5Bcontroller%5D=Calendar&tx_calendarize_calendar%5Bindex%5D=29&cHash=6ca22a8eef214030f5aec01d629d73e4) and [Open Access Week](https://www.openaccessweek.org/).
 
 The organization of the Research Software Week is supported by the [Berlin University Alliance (BUA) Center for Open and Responsible Research (CORe)](https://www.berlin-university-alliance.de/en/commitments/research-quality/core/index.html).
 
-![logo Berlin University Alliance](BUA-funders_logo.png)
+![logo Berlin University Alliance](BUA_Logo_quer_RGB_24.png)
 
 This event is co-organized by the Cluster of Excellence Matters of Activity.
 
