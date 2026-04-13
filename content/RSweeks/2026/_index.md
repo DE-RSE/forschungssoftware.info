@@ -25,7 +25,7 @@ We encourage you to recycle existing talks and workshop concepts.
 | Friday          | 2026-06-05                       | 10:00--14:00 | Open Code (Sharing) pt. 2   | workshop                                      | Charlotte Meinke, Leona Hammelrath, Tessa Meyer |                |          | users and developers of code | [https://luma.com/l7z4fxdu](https://luma.com/l7z4fxdu) |       | in person                                      | tbd                                 |
 
 
-## Acknowledgments
+## Acknowledgements
 
 ![banner Research Software week](RSweek-banner-page001.png)
 
