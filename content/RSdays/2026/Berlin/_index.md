@@ -25,17 +25,16 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 |**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth (BUA Advancing Research Quality and Value)*|
 |**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
 |**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
-|**14:30-15:30**| **Session 2: Workshops**
+|**14:30-15:30**| **Session 2: Workshops, Talks and Meetups**
 | |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
 | |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
 | |**(2.3) RSE Education: Into the Light** <br>*Julian Dehne (GI), Magnus Hagdorn (Charité), Nick Del Grosso (ibehave.nrw)*|
 | |**(2.4) Reproducible Computational Analyses** <br>*Jochen Knaus (Weizenbaum-Institut)*|
 |15:30-16:00| Coffee Break |
-|**16:00-17:00**| **Session 3: Workshops**
+|**16:00-17:00**| **Session 3: Workshops, Talks and Meetups**
 | |**(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*|
 | |**(3.2) AI Research Governance. Responsiblity, regulation and guidelines in context of research developments** <br>*Carolin Odebrecht (HU Berlin)*|
 | |**(3.3) 20 years of Open Source - lessons learned (tbc.)** <br>*Max Moorkamp (TU Berlin)*|
-| |**(3.4) Tbc.**|
 |17:00-17:15| Wrap-up and Closing |
 
 **>> You can [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th.**
