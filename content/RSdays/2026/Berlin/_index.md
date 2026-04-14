@@ -108,5 +108,6 @@ Birds of a Feather (BoF) discussion session on AI governance targeting all level
 **(3.3) 20 years of Open Source – lessons learned (tbc.)** <br>*Max Moorkamp (TU Berlin)*
 Abstract is under discussion and will be published soon.
 
+![Research Software Day Poster](poster-RSday.png)
 
 [Download the Research Software Day Poster as PDF](https://box.hu-berlin.de/seafhttp/f/e0e9719e118748ff8061/?op=view)
