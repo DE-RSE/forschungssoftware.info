@@ -22,7 +22,7 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 | |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
 | |**(1.4) Tbc.**|
 |12:00-12:45| Lunch Break|
-|**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth (BUA Advancing Research Quality and Value)*|
+|**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth  (Steering Committee BUA Objective 3 Advancing Research Quality and Value, TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
 |**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
 |**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
 |**14:30-15:30**| **Session 2: Workshops, Talks and Meetups**
@@ -69,7 +69,9 @@ We gladly acknowledge local support from the [Cluster of Excellence *Matters of 
 For questions, feedback, etc. please contact [Claudia Göbel](https://www.berlin-university-alliance.de/en/commitments/research-quality/personen/goebel-claudia/index.html) and/or [Alexander Struck](https://www.matters-of-activity.de/en/members/219/dr-alexander-struck).
 
 ## Abstracts
-**Session 1: Hands-on Trainings (09:00-12:00)**
+
+### Session 1: Hands-on Trainings (09:00-12:00)
+
 **(1.1) Rechtsfragen bei Forschungssoftware (in German language)** <br>*Till Kreutzer (iRights)*
 Abstract is under discussion and will be published soon.
 
@@ -82,7 +84,8 @@ computational workflows as part of peer review, and the DHTech Code Review Worki
 "good software/workflows" means in research contexts, discuss incentives and benefits, and identify practical, low-barrier quality improvements that individual researchers/developers as well as communities can adopt.
 
 
-**Session 2: Workshops (14:30-15:30)**
+### Session 2: Workshops (14:30-15:30)
+
 **(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*
 Open research software is central to transparent and reproducible science: only when both research data and program code are freely accessible can results be verified, reproduced, and reused. The Helmholtz Open Science Policy serves as the institutional framework to set shared standards and grant software the visibility and recognition it deserves within the Helmholtz Association. This presentation explores how initiatives like the Helmholtz Software Award, the Research Software Directory, and the Helmholtz Quality Indicators for Data and Software Products translate this policy into practice, ensuring the professionalization of research software as a research contribution and a visible pillar of scientific excellence.
 
@@ -96,7 +99,8 @@ RSE Education has started out in some dark corners. PhD students may have had so
 **(2.4) Reproducible Computational Analyses** <br>*Jochen Knaus (Weizenbaum-Institut)*
 The replication and reproduction of scientific results and methods constitute good scientific practice. Despite the fact that software and research software are now deeply embedded in mostly all processes throughout the scientific lifecycle in many scientific domains, this technical aspect is often overlooked: the results of software, despite their nominally deterministic nature of computer programs, is stable, but reproducing them is not guaranteed per se, but require adjustments to methodology and design. This becomes all the more evident when considering the entire class of research software, from a single statistical analysis to infrastructure components, over an extended period of time: can computational results performed with software still be reproduced with reasonable effort even years later? And if not, why not? This talk provides an overview of various challenges and solutions: from individual aspects in the programs, using data formats and data preparation, the use of software libraries and (commercial) third-party software, to approaches using dynamic documents and reproducible workflows, all the way to the technical preservation of entire execution environments. Current topics such as the integration of external AI systems, agents, and Vibe Codings will also be addressed from the view of reproducibility, as well as the status and practices of computational reproducibility within the scientific publishing system will be examined.
 
-**Session 3: Workshops (15:45-16:45)**
+### Session 3: Workshops (15:45-16:45)
+
 **(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*
 This talk outlines the development of the AI infrastructure at Humboldt University of Berlin since 2023: from the first locally deployed language model to today’s comprehensive ecosystem comprising privacy-compliant LLMs and encoders, multimodal tools (transcription, image analysis, image generation, document summarisation) and integrations with other services. A key factor in its success is the operating model, which does not log personal data whilst ensuring API availability for in-house applications – complemented by the interactive ‘AI Teatime’ format, which feeds user requirements directly into development. The infrastructure is complemented by formats designed to promote AI literacy and platforms for Retrieval Augmented Generation (RAG) to create agent-based interaction formats in the fields of  research, teaching and administration.
 
