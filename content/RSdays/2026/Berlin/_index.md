@@ -24,7 +24,7 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 |12:00-12:45| Lunch Break|
 |**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth (BUA Advancing Research Quality and Value)*|
 |**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
-|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - Research Software Award der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
+|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
 |**14:30-15:30**| **Session 2: Workshops**
 | |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
 | |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
