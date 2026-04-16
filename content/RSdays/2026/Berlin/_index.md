@@ -17,7 +17,7 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 |---|---|
 |From 08:30| Arrival & Coffee |
 |**09:00-12:00**| **Session 1: Hands-on Trainings** |
-| |**(1.1) Rechtsfragen bei Forschungssoftware (in German language)** <br>*Till Kreutzer (iRights)*|
+| |**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*|
 | |**(1.2) National High Performance Computing (NHR): An Introduction to the NHR@ZIB Site** <br>*Georgios Nikolis (ZIB), Steffen Christgau (ZIB)* |
 | |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
 | |**(1.4) Tbc.**|
@@ -72,8 +72,8 @@ For questions, feedback, etc. please contact [Claudia Göbel](https://www.berlin
 
 ### Session 1: Hands-on Trainings (09:00-12:00)
 
-**(1.1) Rechtsfragen bei Forschungssoftware (in German language)** <br>*Till Kreutzer (iRights)*
-Abstract is under discussion and will be published soon.
+**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*
+Der Workshop bietet einen praxisnahen und allgemeinverständlichen Überblick zu rechtlichen Aspekten des Softwareschutzes, insbesondere in Bezug auf Freie und Open Source Software (FOSS). Mit Fokus auf den wissenschaftlichen Kontext werden insbesondere urheberrechtliche Ausgangsfragen, die Systematik, Funktionsweise, sowie typische Lizenzpflichten von Open-Source-Lizenzen, Copyleft- und License-Compliance-Aspekte beleuchtet. Ziel ist es, Orientierung beim rechtssicheren Umgang mit Forschungssoftware in der täglichen Arbeit zu geben und rechtliche Risiken besser einordnen zu können. Es wird viel Raum für Nachfragen und Diskussionen geben. 
 
 **(1.2) National High Performance Computing (NHR): An Introduction to the NHR@ZIB Site** <br>*Georgios Nikolis (ZIB), Steffen Christgau (ZIB)*
 Abstract is under discussion and will be published soon.
