@@ -18,7 +18,7 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 |From 08:30| Arrival & Coffee |
 |**09:00-12:00**| **Session 1: Hands-on Trainings** |
 | |**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*|
-| |**(1.2) National High Performance Computing (NHR): An Introduction to the NHR@ZIB Site** <br>*Georgios Nikolis (ZIB), Steffen Christgau (ZIB)* |
+| |**(1.2) National High-Performance Computing (NHR): HPC and AI at NHR@ZIB** <br>*Steffen Christgau, Anirudh Krishnadas and Georgios Nikolis (all ZIB)* |
 | |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
 | |**(1.4) Tbc.**|
 |12:00-12:45| Lunch Break|
