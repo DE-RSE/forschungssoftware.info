@@ -1,0 +1,51 @@
+# Research Software Week 2026: June 1st--5th
+
+## About
+
+2026 is the first instance of the Research Software Week. This is a *prototype event* and is **shaped by your contributions**! The event format is inspired by the international [Love Data Week](https://forschungsdaten.info/praxis-kompakt/fdm-kalender/detail?tx_calendarize_calendar%5Baction%5D=detail&tx_calendarize_calendar%5Bcontroller%5D=Calendar&tx_calendarize_calendar%5Bindex%5D=29&cHash=6ca22a8eef214030f5aec01d629d73e4) and [Open Access Week](https://www.openaccessweek.org/).
+
+The Research Software Week is an event for everybody interested in research software (engineering). In connection to the first [Research Software Day Berlin & Brandenburg](https://forschungssoftware.info/RSdays/2026/Berlin/) on 3 June 2026, this week is intended to encourage broader learning, exchange and networking around research software. The idea is to gather events around research software in one place and promote them to a larger audience. Let’s see where we can go together!
+
+## Register your software event
+
+Please submit your event to this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1FK3JPWAdnKYjdPtG-pgb0d3Cp1XldOZG1XZ2UoK0BWQ/edit?usp=sharing).
+
+We encourage you to recycle existing talks and workshop concepts.
+
+## Programm
+
+*generated from your submissions*
+
+
+
+| Day of the week | Date<br>in ISO8601<br>YYYY-MM-DD | Time Slot    | Title                       | Type of event (workshop, panel, lecture, ...) | Organizers                                      | Contact e-mail            | Language | Target audience                         | Registration link if mandatory                         | Misc.                                                                                                                        | Attendance options (online, in person, hybrid) | VC tool link or real world location                                                                                                                                                                                                                                                                                                                         |
+| --------------- | -------------------------------- | ------------ | --------------------------- | --------------------------------------------- | ----------------------------------------------- | ------------------------- | -------- | --------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| tbd             | tbd                              | 11:00--12:00 | Research Software Discovery | workshop                                      | Ronny Gey, Alexander Struck, Daniel Mietchen    | tbd                       | EN       | ECR, PostDoc, PI                        | tbd                                                    |                                                                                                                              | online                                         | tbd                                                                                                                                                                                                                                                                                                                                                         |
+| Monday          | 2026-06-01                       | 9:30--14:00  | Software Carpentries pt. 1  | workshop                                      | Charité Universitätsmedizin Berlin              | magnus.hagdorn@charite.de | EN       | graduate students and other researchers |                                                        | [https://scientificcomputingcharite.github.io/2026-06-01-bua/](https://scientificcomputingcharite.github.io/2026-06-01-bua/) | in person                                      | Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52838093147142&mlon=13.376186054925862&zoom=16) or [Google Maps](https://maps.google.com/maps?q=52.52838093147142,13.376186054925862). What3Words location: [///sensible.bombard.sisters](https://what3words.com/sensible.bombard.sisters). |
+| Tuesday         | 2026-06-02                       | 9:30--13:30  | Software Carpentries pt. 2  | workshop                                      | Charité Universitätsmedizin Berlin              | magnus.hagdorn@charite.de | EN       | graduate students and other researchers |                                                        | [https://scientificcomputingcharite.github.io/2026-06-01-bua/](https://scientificcomputingcharite.github.io/2026-06-01-bua/) | in person                                      | Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52838093147142&mlon=13.376186054925862&zoom=16) or [Google Maps](https://maps.google.com/maps?q=52.52838093147142,13.376186054925862). What3Words location: [///sensible.bombard.sisters](https://what3words.com/sensible.bombard.sisters). |
+| Thursday        | 2026-06-04                       | 9:30--13:30  | Software Carpentries pt. 3  | workshop                                      | Charité Universitätsmedizin Berlin              | magnus.hagdorn@charite.de | EN       | graduate students and other researchers |                                                        | [https://scientificcomputingcharite.github.io/2026-06-01-bua/](https://scientificcomputingcharite.github.io/2026-06-01-bua/) | in person                                      | Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52838093147142&mlon=13.376186054925862&zoom=16) or [Google Maps](https://maps.google.com/maps?q=52.52838093147142,13.376186054925862). What3Words location: [///sensible.bombard.sisters](https://what3words.com/sensible.bombard.sisters). |
+| Friday          | 2026-06-05                       | 9:30--13:30  | Software Carpentries pt. 4  | workshop                                      | Charité Universitätsmedizin Berlin              | magnus.hagdorn@charite.de | EN       | graduate students and other researchers |                                                        | [https://scientificcomputingcharite.github.io/2026-06-01-bua/](https://scientificcomputingcharite.github.io/2026-06-01-bua/) | in person                                      | Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52838093147142&mlon=13.376186054925862&zoom=16) or [Google Maps](https://maps.google.com/maps?q=52.52838093147142,13.376186054925862). What3Words location: [///sensible.bombard.sisters](https://what3words.com/sensible.bombard.sisters). |
+| Thursday        | 2026-06-04                       | 10:00--16:00 | Open Code (Sharing) pt. 1   | workshop                                      | Charlotte Meinke, Leona Hammelrath, Tessa Meyer |                           |          | users and developers of code            | [https://luma.com/l7z4fxdu](https://luma.com/l7z4fxdu) |                                                                                                                              | in person                                      | tbd                                                                                                                                                                                                                                                                                                                                                         |
+| Friday          | 2026-06-05                       | 10:00--14:00 | Open Code (Sharing) pt. 2   | workshop                                      | Charlotte Meinke, Leona Hammelrath, Tessa Meyer |                           |          | users and developers of code            | [https://luma.com/l7z4fxdu](https://luma.com/l7z4fxdu) |                                                                                                                              | in person                                      | tbd                                                                                                                                                                                                                                                                                                                                                         |
+
+## Acknowledgements
+
+The Research Software Week is initiated by the [Berlin University Alliance (BUA) Center for Open and Responsible Research (CORe)](https://www.berlin-university-alliance.de/en/commitments/research-quality/core/index.html).
+
+![logo Berlin University Alliance](BUA_Logo_quer_RGB_24.png)
+
+This event is co-organized by the Cluster of Excellence Matters of Activity.
+
+![logo MoA](MoA-HU-DFG-logo.png)
+
+This Research Software Week is also generously supported by the communication platforms of [de-RSE e.V. - Society for Research Software in Germany](https://de-rse.org/en/).
+
+![logo de-RSE](deRSE-logo-color-web.png)
+
+## Contact
+
+Please send feedback, questions, etc. to [Claudia Göbel](mailto:claudia.goebel@berlin-university-alliance.de) and/or [Alexander Struck](mailto:alexander.struck@hu-berlin.de). 
+
+## Future Work
+
+The Research Software Week could be coordinated with international RSE initiatives in the years to come.
