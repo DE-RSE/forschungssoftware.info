@@ -34,7 +34,7 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 |**16:00-17:00**| **Session 3: Workshops, Talks and Meetups**
 | |**(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*|
 | |**(3.2) AI Research Governance. Responsiblity, regulation and guidelines in context of research developments** <br>*Carolin Odebrecht (HU Berlin)*|
-| |**(3.3) 20 years of Open Source - lessons learned (tbc.)** <br>*Max Moorkamp (TU Berlin)*|
+| |**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
 |17:00-17:15| Wrap-up and Closing |
 
 **>> You can [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th.**
@@ -112,6 +112,7 @@ This talk outlines the development of the AI infrastructure at Humboldt Universi
 Birds of a Feather (BoF) discussion session on AI governance targeting all levels of developers and engineers in academic research environments, addressing individual accountability, responsibility within teams and institutions, organizational governance frameworks, and necessary conditions for responsible AI development in scientific contexts. This informal forum aims to foster exchange also on ethical considerations and practical implementation challenges specific to software development and AI responsiblity in university settings. We will discuss existing governance approaches across organizational levels and actionable recommendations for responsible AI practices.
 
 **(3.3) 20 years of Open Source – lessons learned (tbc.)** <br>*Max Moorkamp (TU Berlin)*
+Publishing research software as open source facilitates reproducibility of results, enhances visibility and can be a rewarding experience. However, it is also a daunting endeavor to make software often written for very specific use cases open to the public. For example, as scientists we focus on correctness of results and computational efficiency, but tend to neglect usability, the ease of building software on different platforms and documentation. I will reflect on my experience with making software available for the last 20 years. What has worked? What have been significant obstacles to better use of software? How has publishing my software as open source influenced my career and my research? What might the next 20 years look like?
 Abstract is under discussion and will be published soon.
 
 ![Research Software Day Poster](poster-RSday.png)
