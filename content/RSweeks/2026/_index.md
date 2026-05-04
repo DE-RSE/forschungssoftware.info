@@ -2,13 +2,15 @@
 
 ## About
 
-The Research Software Week is an event for everybody interested in research software (engineering). In connection to the first [Research Software Day Berlin & Brandenburg](https://forschungssoftware.info/RSdays/2026/Berlin/) on 3 June 2026, we started the initiative to encourage broader learning, exchange and networking around research software. The idea is to gather events around research software in one place and promote them to a larger audience. Let’s see where we can go together!
+2026 is the first instance of the Research Software Week. This is a *prototype event* and is **shaped by your contributions**! The event format is inspired by the international [Love Data Week](https://forschungsdaten.info/praxis-kompakt/fdm-kalender/detail?tx_calendarize_calendar%5Baction%5D=detail&tx_calendarize_calendar%5Bcontroller%5D=Calendar&tx_calendarize_calendar%5Bindex%5D=29&cHash=6ca22a8eef214030f5aec01d629d73e4) and [Open Access Week](https://www.openaccessweek.org/).
+
+The Research Software Week is an event for everybody interested in research software (engineering). In connection with the first [Research Software Day Berlin & Brandenburg](https://forschungssoftware.info/RSdays/2026/Berlin/) on 3 June 2026, this week is intended to encourage broader learning, exchange and networking around research software. The idea is to gather events around research software in one place and promote them to a larger audience. Let’s see where we can go together!
 
 ## Register your software event
 
 Please submit your event to this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1FK3JPWAdnKYjdPtG-pgb0d3Cp1XldOZG1XZ2UoK0BWQ/edit?usp=sharing).
 
-We encourage you to recycle existing talks and workshop concepts.
+We encourage you to **recycle existing talks and workshop concepts**.
 
 ## Programm
 
@@ -28,10 +30,7 @@ We encourage you to recycle existing talks and workshop concepts.
 
 ## Acknowledgements
 
-
-2026 is the first instance of the Research Software Week. This is inspired by the international [Love Data Week](https://forschungsdaten.info/praxis-kompakt/fdm-kalender/detail?tx_calendarize_calendar%5Baction%5D=detail&tx_calendarize_calendar%5Bcontroller%5D=Calendar&tx_calendarize_calendar%5Bindex%5D=29&cHash=6ca22a8eef214030f5aec01d629d73e4) and [Open Access Week](https://www.openaccessweek.org/).
-
-The organization of the Research Software Week is supported by the [Berlin University Alliance (BUA) Center for Open and Responsible Research (CORe)](https://www.berlin-university-alliance.de/en/commitments/research-quality/core/index.html).
+The Research Software Week is initiated by the [Berlin University Alliance (BUA) Center for Open and Responsible Research (CORe)](https://www.berlin-university-alliance.de/en/commitments/research-quality/core/index.html).
 
 ![logo Berlin University Alliance](BUA_Logo_quer_RGB_24.png)
 
@@ -39,7 +38,7 @@ This event is co-organized by the Cluster of Excellence Matters of Activity.
 
 ![logo MoA](MoA-HU-DFG-logo.png)
 
-This Research Software Week is also supported by [de-RSE e.V. - Society for Research Software in Germany](https://de-rse.org/en/).
+This Research Software Week is also generously supported by the communication platforms of [de-RSE e.V. - Society for Research Software in Germany](https://de-rse.org/en/).
 
 ![logo de-RSE](deRSE-logo-color-web.png)
 
@@ -49,5 +48,7 @@ Please send feedback, questions, etc. to [Claudia Göbel](mailto:claudia.goebel@
 
 ## Future Work
 
-The Research Software Week will be coordinated with international RSE initiatives in the years to come.
+The Research Software Week could be coordinated with international RSE initiatives in the years to come. A BoF meeting for [International Research Software Conference (IRSC26)](https://www.researchsoft.org/irsc/) has been proposed.
+
+
 
