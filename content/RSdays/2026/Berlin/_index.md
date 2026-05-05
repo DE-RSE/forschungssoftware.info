@@ -7,7 +7,7 @@ The event brings together researchers who (want to) develop software, networking
 The aim of the Research Software Day is to **learn, share and strengthen local communities around research software** as a key component of open and responsible research. It is organized by the [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/commitments/research-quality/core/index.html) and the [de-RSE e.V.](https://de-rse.org/en/) – Society for Research Software in Germany, in cooperation with the Cluster of Excellence [Matters of Activity](https://www.matters-of-activity.de/en/). In addition to the face-to-face event on June 3, online training events are organized during the whole week of [June 1-5, 2026 (the first ever *Research Software Week* in Germany!)](https://forschungssoftware.info/RSweeks/2026/).
 
 
-**>> Please [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th for the Research Software Day 2026.**
+Registration closed on 2026-05-05 ~~**>> Please [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th for the Research Software Day 2026.**~~
 
 
 ## Schedule (see abstracts below)
@@ -37,7 +37,7 @@ The aim of the Research Software Day is to **learn, share and strengthen local c
 | |**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
 |17:00-17:15| Wrap-up and Closing |
 
-**>> You can [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th.**
+Registration closed on 2026-05-05 ~~**>> You can [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th.**~~
 
 
 
@@ -76,7 +76,8 @@ For questions, feedback, etc. please contact [Claudia Göbel](https://www.berlin
 Der Workshop bietet einen praxisnahen und allgemeinverständlichen Überblick zu rechtlichen Aspekten des Softwareschutzes, insbesondere in Bezug auf Freie und Open Source Software (FOSS). Mit Fokus auf den wissenschaftlichen Kontext werden insbesondere urheberrechtliche Ausgangsfragen, die Systematik, Funktionsweise, sowie typische Lizenzpflichten von Open-Source-Lizenzen, Copyleft- und License-Compliance-Aspekte beleuchtet. Ziel ist es, Orientierung beim rechtssicheren Umgang mit Forschungssoftware in der täglichen Arbeit zu geben und rechtliche Risiken besser einordnen zu können. Es wird viel Raum für Nachfragen und Diskussionen geben. 
 
 **(1.2) National High Performance Computing (NHR): An Introduction to the NHR@ZIB Site** <br>*Georgios Nikolis (ZIB), Steffen Christgau (ZIB)*
-Abstract is under discussion and will be published soon.
+The National High‑Performance Computing Initiative (NHR) offers free, large‑scale computational resources and topic‑specific consulting to scientific projects at public universities across Germany. With nine sites nationwide, the NHR is a key partner for researchers who require high‑performance computing (HPC) at scale.
+The Berlin node—NHR@ZIB—resides at the Zuse Institute Berlin (ZIB) and operates the LISE supercomputer. In this session we will present an overview of the NHR’s mission, governance and infrastructure, followed by a detailed look at the services available through NHR@ZIB. We will illustrate how HPC and AI are applied in natural and life sciences through concrete use‑case examples, highlighting the impact of high‑performance resources on research outcomes.
 
 **(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality**<br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*
 When in the research lifecycle do small interventions yield the largest gains in code, workflow, and research quality? This hands-on session explores that question by combining two complementary initiatives: CODECHECK (https://codecheck.org.uk/), which independently checks 
