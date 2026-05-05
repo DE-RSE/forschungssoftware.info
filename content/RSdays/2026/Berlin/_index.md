@@ -20,7 +20,6 @@ Registration closed on 2026-05-05. To be placed on the waiting list please send 
 | |**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*|
 | |**(1.2) National High-Performance Computing (NHR): HPC and AI at NHR@ZIB** <br>*Steffen Christgau, Anirudh Krishnadas and Georgios Nikolis (all ZIB)* |
 | |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
-| |**(1.4) Tbc.**|
 |12:00-12:45| Lunch Break|
 |**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth  (Steering Committee BUA Objective 3 Advancing Research Quality and Value, TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
 |**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
