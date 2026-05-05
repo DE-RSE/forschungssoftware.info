@@ -7,7 +7,7 @@ The event brings together researchers who (want to) develop software, networking
 The aim of the Research Software Day is to **learn, share and strengthen local communities around research software** as a key component of open and responsible research. It is organized by the [Berlin University Alliance (BUA)](https://www.berlin-university-alliance.de/en/commitments/research-quality/core/index.html) and the [de-RSE e.V.](https://de-rse.org/en/) – Society for Research Software in Germany, in cooperation with the Cluster of Excellence [Matters of Activity](https://www.matters-of-activity.de/en/). In addition to the face-to-face event on June 3, online training events are organized during the whole week of [June 1-5, 2026 (the first ever *Research Software Week* in Germany!)](https://forschungssoftware.info/RSweeks/2026/).
 
 
-Registration closed on 2026-05-05 ~~**>> Please [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th for the Research Software Day 2026.**~~
+Registration closed on 2026-05-05. To be placed on the waiting list please send an e-mail to core@berlin-university-alliance.de. Thank you for your interest. ~~**>> Please register here until Mai 19th for the Research Software Day 2026.**~~
 
 
 ## Schedule (see abstracts below)
@@ -37,7 +37,7 @@ Registration closed on 2026-05-05 ~~**>> Please [register here](https://www.matt
 | |**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
 |17:00-17:15| Wrap-up and Closing |
 
-Registration closed on 2026-05-05 ~~**>> You can [register here](https://www.matters-of-activity.de/en/activities/18807/research-software-day-berlin-and-brandenburg) until Mai 19th.**~~
+Registration closed on 2026-05-05. To be placed on the waiting list please send an e-mail to core@berlin-university-alliance.de. Thank you for your interest. ~~**>> You can register here until Mai 19th.**~~
 
 
 
