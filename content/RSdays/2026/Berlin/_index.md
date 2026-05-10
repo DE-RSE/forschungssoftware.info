@@ -42,7 +42,7 @@ Registration closed on 2026-05-05. To be placed on the waiting list please send 
 To give visibility to the software projects by research software engineers in Berlin and Brandenburg, you can send us one slide. 
 We’ll compile a slideshow with all projects, which will be shown during the breaks at various screens at the venue. Afterwards, the slideshow will be uploaded to the Zenodo community of the event.
 If you want to participate, please send a pdf-file created from a slide in 16:9 format to claudia.goebel [at] berlin-university-alliance [dot] de until 17.05.2026. The slide (pdf) should only contain key information: Name of the software, your name, link to the repository/website/DOI, purpose and what your software does in max. three short bullet points, your contact info if you want to share it, any highlight of your software people should know about in max. 3 short bullet points, any nice visual. Please have in mind that each slide needs to be comprehensible within a few seconds, so limiting text and using easy, an eye-catching visual (not a complicated one) is recommended.
-By sending the slide you agree to the slide show being published in Zenodo under a CC-BY license (if you wish to make your slide public domain (CC0), please include the corresponding licensing info on your slide).
+By sending the slide you agree to the slide show being published in Zenodo under a CC-BY license (if you wish to make your slide public domain ([CC0](https://creativecommons.org/publicdomain/list.en#publicdomain-cc0-10)), please include the corresponding licensing info on your slide).
 
 
 ## Location
