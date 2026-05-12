@@ -84,8 +84,8 @@ The National High‑Performance Computing Initiative (NHR) offers free, large‑
 The Berlin node—NHR@ZIB—resides at the Zuse Institute Berlin (ZIB) and operates the LISE supercomputer. In this session we will present an overview of the NHR’s mission, governance and infrastructure, followed by a detailed look at the services available through NHR@ZIB. We will illustrate how HPC and AI are applied in natural and life sciences through concrete use‑case examples, highlighting the impact of high‑performance resources on research outcomes.
 
 **(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality**<br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*
-When in the research lifecycle do small interventions yield the largest gains in code, workflow, and research quality? This hands-on session explores that question by combining two complementary initiatives: CODECHECK (https://codecheck.org.uk/), which independently checks 
-computational workflows as part of peer review, and the DHTech Code Review Working Group (https://dhcodereview.github.io/), which provides collaborative code review for in-progress research software. After introducing both initiatives, we examine diverse perspectives on what 
+When in the research lifecycle do small interventions yield the largest gains in code, workflow, and research quality? This hands-on session explores that question by combining two complementary initiatives: CODECHECK https://codecheck.org.uk/, which independently checks 
+computational workflows as part of peer review, and the DHTech Code Review Working Group https://dhcodereview.github.io/, which provides collaborative code review for in-progress research software. After introducing both initiatives, we examine diverse perspectives on what 
 "good software/workflows" means in research contexts, discuss incentives and benefits, and identify practical, low-barrier quality improvements that individual researchers/developers as well as communities can adopt.
 
 
