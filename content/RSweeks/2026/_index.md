@@ -16,7 +16,7 @@ We encourage you to **recycle existing talks and workshop concepts**.
 
 *generated from your submissions*
 
-
+---
 
 ### Software Carpentries
 - Monday June 1 9:30--14:00 *The Unix Shell*
@@ -37,7 +37,20 @@ Open code - i.e., sharing code on platforms such as GitHub and similar platforms
 
 [Registration](https://luma.com/l7z4fxdu)
 
+### Beyond Vibe Coding: Responsible AI-Assisted Data Analysis for Reproducible Research
 
+- Friday June 5 13--16 [via Zoom](https://us06web.zoom.us/j/89533132757?pwd=iOQv33aqUocc5yUjgvdHhgkPwMuOcX.1)
+
+Generative AI is not only significantly affecting the world of software development, but also rapidly changing the way research is conducted. This online workshop offers a structured opportunity to explore both the practical use of AI-based coding tools for data analysis and the broader questions they raise for scientific integrity and responsibility. During the workshop, we will combine structured hands-on exercises with group discussions to:
+- get to know the features and limitations of the various AI-based coding assistants
+- explore how generative AI can help writing reusable, well documented and version controlled analysis code
+- discuss when AI assistance supports research and when it conflicts with good scientific practice
+- develop your own criteria for when and how to use AI-based coding tools in your research
+By the end of the workshop, you will be equipped to make informed and conscious decisions about how to choose and use AI-based coding assistants in your own research. *Prerequisites:* You should have some (at least fundamental) experience in scientific coding (e.g. in R or Python).
+
+Help the trainer shaping the workshop by filling out her [pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSfjcL3yqr-RyVUn5oNsV8BE2g2Ly6OCty1kULS18UMfYySQLg/viewform?usp=publish-editor)
+
+---
 
 ## Acknowledgements
 
