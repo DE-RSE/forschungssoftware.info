@@ -28,6 +28,8 @@ We encourage you to **recycle existing talks and workshop concepts**.
 [Read More](https://scientificcomputingcharite.github.io/2026-06-01-bua/)
 Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52838093147142&mlon=13.376186054925862&zoom=16) or [Google Maps](https://maps.google.com/maps?q=52.52838093147142,13.376186054925862). What3Words location: [///sensible.bombard.sisters](https://what3words.com/sensible.bombard.sisters)
 
+---
+
 ### Open Code (Sharing)
 
 - Thursday June 4 10--16 *part 1*
@@ -36,6 +38,8 @@ Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https:/
 Open code - i.e., sharing code on platforms such as GitHub and similar platforms - is a central pillar of Open Science. However, a quick look at one's own or others' repositories often shows that simply uploading code is not enough. *Missing structure, insufficient documentation, or inconsistent conventions* frequently make reuse and reproducibility difficult and thus hinder the core goals of Open Science. We aim to address this. Together, we aim to develop practical code-sharing standards that promote transparency, clarity, and reusability. *Step 1: Survey* As a first step, we are conducting a short survey to learn more about current practices in sharing and re-using code. *Duration:* 5?10 minutes *Target group:* Anyone who has ever shared or re-used code (research area: Psychology/Neuroscience/Data Science) We would be very happy if you could participate! Here is the survey:  https://www.soscisurvey.de/stand-repos-user-cent/ *Step 2: Workshop (4 - 5 June 2026)* Based on the survey results, we will host a 1.5-day workshop as part of the Research Software Week on 4 - 5 June in Berlin, where we will jointly develop concrete code-sharing standards.
 
 [Registration](https://luma.com/l7z4fxdu)
+
+---
 
 ### Beyond Vibe Coding: Responsible AI-Assisted Data Analysis for Reproducible Research
 
@@ -48,7 +52,6 @@ Generative AI is not only significantly affecting the world of software developm
 - develop your own criteria for when and how to use AI-based coding tools in your research
 By the end of the workshop, you will be equipped to make informed and conscious decisions about how to choose and use AI-based coding assistants in your own research. *Prerequisites:* You should have some (at least fundamental) experience in scientific coding (e.g. in R or Python).
 
-Help the trainer shaping the workshop by filling out her [pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSfjcL3yqr-RyVUn5oNsV8BE2g2Ly6OCty1kULS18UMfYySQLg/viewform?usp=publish-editor)
 
 ---
 
