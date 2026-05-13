@@ -43,7 +43,7 @@ Open code - i.e., sharing code on platforms such as GitHub and similar platforms
 
 ### Beyond Vibe Coding: Responsible AI-Assisted Data Analysis for Reproducible Research
 
-- Friday June 5 13--16 [via Zoom](https://us06web.zoom.us/j/89533132757?pwd=iOQv33aqUocc5yUjgvdHhgkPwMuOcX.1)
+- Friday June 5 13--16 
 
 Generative AI is not only significantly affecting the world of software development, but also rapidly changing the way research is conducted. This online workshop offers a structured opportunity to explore both the practical use of AI-based coding tools for data analysis and the broader questions they raise for scientific integrity and responsibility. During the workshop, we will combine structured hands-on exercises with group discussions to:
 - get to know the features and limitations of the various AI-based coding assistants
@@ -54,7 +54,8 @@ By the end of the workshop, you will be equipped to make informed and conscious 
 
 **Prerequisites:** 
 - You should have some (at least fundamental) experience in scientific coding (e.g. in R or Python).
-- Fill out this [pre-even survey](https://docs.google.com/forms/d/e/1FAIpQLSfjcL3yqr-RyVUn5oNsV8BE2g2Ly6OCty1kULS18UMfYySQLg/viewform?usp=publish-editor) to allow shaping the workshop towards your skills and needs.
+
+[Registration](https://events.digital-research.academy/event/133/)
 
 ---
 
