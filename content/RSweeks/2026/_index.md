@@ -50,8 +50,11 @@ Generative AI is not only significantly affecting the world of software developm
 - explore how generative AI can help writing reusable, well documented and version controlled analysis code
 - discuss when AI assistance supports research and when it conflicts with good scientific practice
 - develop your own criteria for when and how to use AI-based coding tools in your research
-By the end of the workshop, you will be equipped to make informed and conscious decisions about how to choose and use AI-based coding assistants in your own research. *Prerequisites:* You should have some (at least fundamental) experience in scientific coding (e.g. in R or Python).
+By the end of the workshop, you will be equipped to make informed and conscious decisions about how to choose and use AI-based coding assistants in your own research.
 
+**Prerequisites:** 
+- You should have some (at least fundamental) experience in scientific coding (e.g. in R or Python).
+- Fill out this [pre-even survey](https://docs.google.com/forms/d/e/1FAIpQLSfjcL3yqr-RyVUn5oNsV8BE2g2Ly6OCty1kULS18UMfYySQLg/viewform?usp=publish-editor) to allow shaping the workshop towards your skills and needs.
 
 ---
 
