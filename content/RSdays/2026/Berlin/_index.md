@@ -34,6 +34,7 @@ Registration closed on 2026-05-05. To be placed on the waiting list please send 
 | |**(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*|
 | |**(3.2) AI Research Governance. Responsiblity, regulation and guidelines in context of research developments** <br>*Carolin Odebrecht (HU Berlin)*|
 | |**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
+| |**(3.4) Open Networking. Visit the booths!**|
 |17:00-17:15| Wrap-up and Closing |
 
 
