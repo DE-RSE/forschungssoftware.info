@@ -1,5 +1,5 @@
 ---
-title: "find.software"
+title: "find.software - Foundations for Interdisciplinary Discovery of (Research) Software"
 groupByYear: false
 showDate: false
 hero: true
