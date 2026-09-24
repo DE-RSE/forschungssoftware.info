@@ -50,8 +50,6 @@ Ronny Gey [{{<icon "orcid">}} 0000-0003-1028-1670](https://orcid.org/0000-0003-1
 ## Projektbeschreibung
 > Mit find.software (Foundations for Interdisciplinary Discovery of (Research) Software) wollen wir eine zentrale Anlaufstelle für die Suche nach Forschungssoftware schaffen. Stellen Sie sich vor, Sie suchen nach wissenschaftlicher Software – unabhängig von Ihrem Fachgebiet, der von Ihnen verwendeten Programmiersprache oder dem Betriebssystem, Ihren technischen Kenntnissen oder davon, ob Sie Entwickler oder einfacher Nutzer sind. Zu diesem Zweck arbeiten wir gemeinsam mit Wikidata und der wissenschaftlichen Gemeinschaft daran, eine Lösung für die Gemeinschaft und mit der Gemeinschaft zu entwickeln.
 
-Übersetzt mit DeepL.com (kostenlose Version)
-
 ## Entstehende Services
 
 TBD
