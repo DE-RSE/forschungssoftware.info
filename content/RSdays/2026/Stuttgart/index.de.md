@@ -47,7 +47,7 @@ Die Universität Stuttgart verfügt über eine [starke Expertise](https://www.un
 | |**Eröffnung** <br>*Bernd Flemisch (IWS, Universität Stuttgart)*|
 | |**Begrüßung** <br>*Simone Rehm (CIO, Universität Stuttgart)*|
 | |**Impulsvortrag** ([Zenodo](https://doi.org/10.5281/zenodo.18832029)) <br>*Benjamin Uekermann (IPVS, Universität Stuttgart)*|
-| |**Teilnehmendenbefragung** <br>*Timo Koch (IWS, University of Stuttgart)*|
+| |**Teilnehmendenbefragung** <br>*Timo Koch (IWS, Universität Stuttgart)*|
 |**16:45-18:30**| **Ausstellung mit Postern und Demos** (Foyer des V47) <br>60 Poster und Demos von Stuttgarter Arbeitsgruppen und Teilnehmenden der deRSE26|
 
 Der Impulsvortrag beleuchtete, was Forschungssoftware ist, warum sie essenziell für die Wissenschaft ist und weshalb Stuttgart ein führender Standort in ihrer Entwicklung ist.
